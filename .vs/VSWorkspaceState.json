@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\VolumetricRendering",
-    "\\VolumetricRendering\\VolumetricRendering"
+    "\\VolumetricRendering\\VolumetricRendering",
+    "\\VolumetricRendering\\VolumetricRendering\\imgui"
   ],
-  "SelectedNode": "\\VolumetricRendering\\VolumetricRendering\\VolumetricRendering.vcxproj",
+  "SelectedNode": "\\VolumetricRendering\\VolumetricRendering",
   "PreviewInSolutionExplorer": false
 }

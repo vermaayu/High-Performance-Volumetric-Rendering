@@ -1,0 +1,10 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+C:\Users\amazi\Desktop\MastersProject\High-Performance-Volumetric-Rendering\VolumetricRendering\VolumetricRendering\imgui\imgui_impl_opengl3.h(82,1): fatal error C1189: #error:  "Cannot detect OpenGL loader!"
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  VolumetricRendering.cpp
+  Generating Code...
