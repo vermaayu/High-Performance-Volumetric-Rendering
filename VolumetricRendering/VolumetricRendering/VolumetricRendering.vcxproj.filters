@@ -19,6 +19,9 @@
     <Filter Include="Source Files\imgui">
       <UniqueIdentifier>{1ac25b40-c9c6-4bc4-93b6-5711ca087633}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\resources">
+      <UniqueIdentifier>{40dd953b-9561-4b60-a1f9-c5d7a51dea81}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="VolumetricRendering.cpp">
