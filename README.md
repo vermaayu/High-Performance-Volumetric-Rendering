@@ -10,7 +10,7 @@
 All these dependencies are already there in the project.
 
 ### Build
-The project was developed on Windows, Visual Studio (2019). The project is self contained. Run the solution in Debug mode on Visual Studio.
+The project was developed on Windows, Visual Studio (2019). The project is self contained. Run the solution (VolumetricRendering.sln file) in Debug mode on Visual Studio.
 The paths should not be a problem but in the offset chance that there are, please set the paths accordingly.
 
 
