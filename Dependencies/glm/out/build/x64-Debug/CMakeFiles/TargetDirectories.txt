@@ -1,0 +1,2 @@
+C:/Users/amazi/Desktop/Re-Sit/Modules/Rendering/Rendering1/Rendering1/Dependencies/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/amazi/Desktop/Re-Sit/Modules/Rendering/Rendering1/Rendering1/Dependencies/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
